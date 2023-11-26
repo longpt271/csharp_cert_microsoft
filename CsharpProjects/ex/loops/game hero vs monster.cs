@@ -1,3 +1,4 @@
+
 int hero = 10;
 int monster = 10;
 
