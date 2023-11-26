@@ -1,0 +1,11 @@
+// Ví dụ: lệnh .NET CLI sau sẽ tạo một ứng dụng bảng điều khiển mới ở vị trí thư mục đã chỉ định:
+
+  dotnet new console -o ./CsharpProjects/TestProject
+
+// Để biên dịch bản dựng ứng dụng của bạn, hãy nhập lệnh sau tại dấu nhắc lệnh Terminal:
+
+  dotnet build
+
+// Để chạy ứng dụng của bạn, hãy nhập lệnh sau tại dấu nhắc lệnh Terminal:
+
+  dotnet run
